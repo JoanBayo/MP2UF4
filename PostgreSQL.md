@@ -5,7 +5,7 @@ Per a instalar el PostgreSQL, obrirem un terminal i executarem la següent coman
 ~~~
 sudo apt-get install postgresql-14
 ~~~
-Un cop executada la comanda, podem veure que comença la instal#lació.
+Un cop executada la comanda, podem veure que comença la instal·lació.
 
 ![Selecció_001](https://user-images.githubusercontent.com/91245889/189872334-570ef3f7-40bf-4cb4-a168-202a844056eb.png)
 
