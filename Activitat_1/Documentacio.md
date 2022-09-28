@@ -79,6 +79,8 @@ INSERT INTO nomTaula (camp1,camp2,camp4) VALUES ('valorCamp1','valorCamp2','valo
 ~~~
 <p align=center>
  <img src=https://user-images.githubusercontent.com/91245889/192818884-76e6dbca-4e87-4b28-9263-fdf94859935e.png>
+</p>
+<p align=center>
  <img src=https://user-images.githubusercontent.com/91245889/192818910-f1586d2c-1242-43ca-884a-51c3c67fcb8b.png>
 </p>
  
@@ -96,12 +98,16 @@ Veiem que figuren a la BD.
 Seguint els passos de l'apartat anterior, introduim les 30 ciutats:
 <p align=center>
  <img src=https://user-images.githubusercontent.com/91245889/192824780-f4029fe9-dcce-4a20-8b75-ffc4c7c89545.png>
+</p>
+<p align=center> 
  <img src=https://user-images.githubusercontent.com/91245889/192824832-c4a98ca4-e12f-4b4e-97f8-2e3b8750a040.png>
 </p>
 
 Veiem que s'han indroduit correctament i ho comprovem amb un SELECT:
 <p align=center>
  <img src=https://user-images.githubusercontent.com/91245889/192825138-d3eb794f-4b20-47cc-bc76-34e753bc8589.png>
+</p> 
+<p align=center> 
  <img src=https://user-images.githubusercontent.com/91245889/192825033-05dfbfe3-242a-4cfe-bcb7-c5c5398339e1.png>
 </p>
 
