@@ -155,7 +155,7 @@ Resultat:
 
   * Ciutats amb més de 1.000.000 habitants
   
-     Sentencia SQL:
+Sentencia SQL:
 <p align=center>
  <img src=https://user-images.githubusercontent.com/91245889/192836335-bfec5f84-78ff-4ff2-be90-2bcbcf48291a.png>
 </p>
@@ -168,11 +168,11 @@ Resultat:
 
   * Ciutats amb menys de 1.000.000 habitants i mes de 650.000 habitants.
   
-     Sentencia SQL:
+Sentencia SQL:
 <p align=center>
  <img src=https://user-images.githubusercontent.com/91245889/192836467-bef7e768-e1f6-4e93-86a9-3930049d5642.png>
 </p>
-     Resultat:
+    Resultat:
 
 <p align=center>
  <img src=https://user-images.githubusercontent.com/91245889/192836533-b5260bdc-6770-45c4-9054-c5c3e81d2c29.png>
