@@ -15,6 +15,7 @@ sudo -u postgres psql
 <p align=center>
 <img src=https://user-images.githubusercontent.com/91245889/192812494-a61889c6-4bd4-4c1c-abdf-3f476dcbb603.png>
 </p>
+
 Ja estariem dintre
 * ### Crear una base de dades anomenada uf4jrf
 Crearem la BD amb el nom indicat:
