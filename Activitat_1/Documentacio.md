@@ -141,6 +141,7 @@ Resultat:
 </p>
 
   * Estats amb una superfície menor que 100.000Km2 i major a 20.000 Km2
+  
 Sentencia SQL:
 
 <p align=center>
@@ -153,6 +154,7 @@ Resultat:
 </p>
 
   * Ciutats amb més de 1.000.000 habitants
+  
      Sentencia SQL:
 <p align=center>
  <img src=https://user-images.githubusercontent.com/91245889/192836335-bfec5f84-78ff-4ff2-be90-2bcbcf48291a.png>
@@ -165,6 +167,7 @@ Resultat:
 
 
   * Ciutats amb menys de 1.000.000 habitants i mes de 650.000 habitants.
+  
      Sentencia SQL:
 <p align=center>
  <img src=https://user-images.githubusercontent.com/91245889/192836467-bef7e768-e1f6-4e93-86a9-3930049d5642.png>
