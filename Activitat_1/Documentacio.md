@@ -2,8 +2,23 @@
 # ACTIVITAT 1
 
 ## Fase 0
-Per a poder fer aquesta activitat s'ha de tenir instalat el PostgreSQL i el Python
+Per a poder fer aquesta activitat s'ha de tenir instalat el PostgreSQL i el Python. Ho podem fer amb la seguent comanda:
+Postgre:
+~~~
+psql -V
+~~~
+<p align=center>
+ <img src=https://user-images.githubusercontent.com/91245889/192845944-b274f0cc-db51-4ddd-854e-1cb372ad443e.png>
+<p/> 
 
+Python:
+~~~
+python3 -v
+~~~
+<p align=center>
+ <img src=https://user-images.githubusercontent.com/91245889/192845999-6f80eba6-f7bf-4377-90a1-23a1e2b3a412.png>
+<p/> 
+Ja tindriem tot el necessari per a poder fer la practica
 
 ## Fase 1
 
@@ -17,7 +32,7 @@ sudo -u postgres psql
 </p>
 
 Ja estariem dintre
-* ### Crear una base de dades anomenada uf4jrf
+* ### Crear una base de dades anomenada uf4JRF
 Crearem la BD amb el nom indicat:
 ~~~
 CREATE DATABASE nomBaseDeDades;
