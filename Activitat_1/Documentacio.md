@@ -1,6 +1,6 @@
 
 # ACTIVITAT 1
-
+MARICON
 ## Fase 0
 Per a poder fer aquesta activitat s'ha de tenir instalat el PostgreSQL i el Python. Ho podem fer amb la seguent comanda:
 Postgre:
